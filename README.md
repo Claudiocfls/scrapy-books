@@ -20,5 +20,3 @@ scrapy crawl books_spider -o books.csv
 ## Deploy to Cloud
 
 Scrapy spiders can be deployed to the cloud using the Zyte platform. The process is pretty straightforward, just access the platform and follow the instructions.
-
-This is the demo project deployed: `https://app.zyte.com/p/522634/jobs`
